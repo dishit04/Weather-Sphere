@@ -1,0 +1,29 @@
+.InfoBox {
+    max-width: 600px;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: #ffffff;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.cardContainer {
+    display: flex;
+    justify-content: center;
+}
+
+.MuiCard-root {
+    width: 100%;
+}
+
+.MuiCardContent-root {
+    text-align: left;
+}
+
+.MuiTypography-h5 {
+    margin-bottom: 15px;
+}
+
+.MuiTypography-body2 {
+    font-size: 16px;
+}
